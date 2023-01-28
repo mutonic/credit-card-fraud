@@ -14,7 +14,7 @@ In order to prepare the data for modeling, it was necessary to perform a resampl
 Different machine learning models were built, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting Models. The models were trained and tested on the dataset, and the results were compared.
 
 ## Results
-The results showed that the Random Forest model performed the best, with an accuracy of 94.2%. This model was able to accurately identify fraudulent transactions, and it is the recommended model for detecting credit card fraud.
+The results showed that the Random Forest model performed the best, with an accuracy of 98 %. This model was able to accurately identify fraudulent transactions, and it is the recommended model for detecting credit card fraud.
 
 ## Usage
 You can use this project as a reference for your own credit card fraud detection project. Data is available on kaggle, you can download it and use it in your google colab python code.
